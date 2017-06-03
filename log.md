@@ -1,32 +1,14 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
+### Day 1: June 3, 2017 )
 
 
-### Day 1: June 27, Monday
+**Today's Progress**: Use jekyll to revamp my personal portfolio website, added a blog, and also added some icons.
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Thoughts:** After initially thought of creating a new design. i decided to keep the old one and just added the new content
+and modify pieces of it. It help me out understanding how jekyll work and also how to divide the pieces of code of my website. long road ahead but it should be fun and interesting. 
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Link to work:** [Portfolio](http://gnich12.github.io)
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+my repo is http://github.com/gnich12
 
-Testing fork
