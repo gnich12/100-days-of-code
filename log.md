@@ -12,3 +12,14 @@ and modify pieces of it. It help me out understanding how jekyll work and also h
 
 my repo is http://github.com/gnich12
 
+---------------------------------
+### Day 2: June 4, 2017 )
+
+
+**Today's Progress**: added icons to the menu. fix blog css, addes js script to add active class
+
+**Thoughts:** I thought i never was going to code tonight after a afternoon of sports and i was tired and finally i was able to code some. i found out how rusty is my jquery and javascript. 
+
+**Link to work:** [Portfolio](http://gnich12.github.io)
+
+my repo is http://github.com/gnich12
